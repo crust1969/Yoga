@@ -14,7 +14,7 @@ exercises = {
 # Display Yoga Exercises with Images
 st.subheader('Yoga Exercises:')
 for exercise_name, image_url in exercises.items():
-    st.image(image_url, caption=exercise_name, use_column_width=True)
+    st.image(caption=exercise_name, use_column_width=True)
     
 # Booking Section
 st.subheader('Book Your Yoga Training:')
