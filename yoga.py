@@ -5,10 +5,10 @@ st.title('Yoga Training App')
 
 # List of Yoga Exercises with corresponding image URLs
 exercises = {
-    'Downward Dog': 'user/documents/Downward-Facing-Dog.jpg',
-    'Warrior II': 'user/documents/warrior2.jpg',
-    'Tree Pose': 'user/documents/treepose.jpg',
-    'Child\'s Pose': 'user/documents/childpose.jpg'
+    'Downward Dog': 'Downward-Facing-Dog.jpg',
+    'Warrior II': 'warrior2.jpg',
+    'Tree Pose': 'treepose.jpg',
+    'Child\'s Pose': 'childpose.jpg'
 }
 
 # Display Yoga Exercises with Images
